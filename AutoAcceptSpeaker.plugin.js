@@ -3,10 +3,11 @@
  * @author djdenicore
  * @author hps_bassline
  * @authorLink https://linktr.ee/djdenicore
- * @version 2.3.0
+ * @version 2.3.1
  * @description Automatically accept speaker invitations in voice channels
  * @website https://hpsbassline.myftp.biz/
  * @source https://github.com/DeniProtoshark/Discord-AutoAccept-Speaker/tree/better-discord
+ * @updateUrl https://raw.githubusercontent.com/DeniProtoshark/Discord-AutoAccept-Speaker/better-discord/AutoAcceptSpeaker.plugin.js
  */
 
 module.exports = (() => {
